@@ -13,3 +13,7 @@
 html {
     background-color: rgb(255, 241, 162);
 }
+  img {
+    max-width: 100%;
+    height: auto;
+    }
