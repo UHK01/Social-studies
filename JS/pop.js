@@ -4,7 +4,7 @@ if(!access){
     flag = true;
     $.cookie('access', false);
 }else{
-    flag = true	
+    flag = false	
 }
 
 //モーダル表示
