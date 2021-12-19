@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: black;
+}
+html {
+    background-color: rgb(140, 207, 252);
+    text-align: center;
+}
+.modoru {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+.hi {
+    color: red;
+}
