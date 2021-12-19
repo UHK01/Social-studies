@@ -1,8 +1,8 @@
 //初回のみモーダルをすぐ出す判定。flagがモーダル表示のstart_open後に代入される
-var access = $.cookie('access')
-if(!access){
+var accsess = $.cookie('accsess')
+if(!accsess){
     flag = false;
-    $.cookie('access', true);
+    $.cookie('accsess', true);
 }else{
     flag = true	
 }
