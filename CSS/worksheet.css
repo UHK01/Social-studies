@@ -17,3 +17,11 @@ html {
     max-width: 100%;
     height: auto;
     }
+.download {
+    text-decoration: none;
+    color: blue;
+    font-size: 25px;
+}
+.naname {
+    font-size: 25px;
+}
