@@ -2,7 +2,7 @@
 var access = $.cookie('access')
 if(!access){
     flag = true;
-    $.cookie('access', false);
+    $.cookie('access', true);
 }else{
     flag = false	
 }
